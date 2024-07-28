@@ -45,6 +45,7 @@ import data.nat.choose.basic
 import data.nat.digits
 import data.nat.factorial.basic
 import data.nat.fib
+import data.nat.log
 import data.nat.modeq
 import data.nat.multiplicity
 import data.nat.parity

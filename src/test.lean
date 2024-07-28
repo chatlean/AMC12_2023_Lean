@@ -215,6 +215,14 @@ begin
   sorry,
 end
 
+theorem amc12b_2023_22 :
+  ∀ f : ℝ → ℝ,
+  (∀ a b : ℝ, f (a + b) + f (a - b) = 2 * f (a) * f (b)) →
+  f (1) ≠ -2 :=
+begin
+  sorry,
+end
+
 theorem amc12b_2023_p24
   (a b c d : ℕ)
   (h₀ : a * b * c * d = 2^6 * 3^9 * 5^7)

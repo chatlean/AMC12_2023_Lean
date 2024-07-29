@@ -21,7 +21,7 @@ import analysis.inner_product_space.euclidean_dist
 import analysis.normed_space.pi_Lp
 import analysis.special_functions.exp
 import analysis.special_functions.exp_deriv
-import analysis.special_functions.log.basic
+import analysis.special_functions.log
 import analysis.special_functions.logb
 import analysis.special_functions.log_deriv
 import analysis.special_functions.pow

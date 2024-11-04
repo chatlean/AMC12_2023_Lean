@@ -1,5 +1,5 @@
 [package]
-name = "test_amc"
+name = "AMC12_2023_Lean"
 version = "1.0"
 lean_version = "leanprover-community/lean:3.42.1"
 path = "src"

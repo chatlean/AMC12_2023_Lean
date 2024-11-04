@@ -1,3 +1,4 @@
 _target/
 src/*.olean
 leanpkg.path
+.gitignore

@@ -1,4 +1,4 @@
-import minif2f_import
+import amc_import
 
 open_locale big_operators
 open_locale nat

@@ -1,4 +1,4 @@
-# 2023 AMC 12 Problems in Lean
+# 2023 AMC12 Problems in Lean
 This repository contains our formalization of the 2023 AMC 12 problems in Lean 3.
 
 ### Formalization

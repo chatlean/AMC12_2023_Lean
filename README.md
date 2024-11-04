@@ -12,4 +12,5 @@ As a result, we successfully formalized 26 out of 50 questions, which are docume
 We formalized the problems in Lean 3 to maintain consistency with other experiments in our main project.
 The Lean version is 3.42.1, which is the same as the version in miniF2F (https://github.com/openai/miniF2F).
 
-We report all formalization in one file `src/test.lean`, and use 
+All formalizations are recorded in a single file, `src/test.lean`, with an import file assigned as `src/import.lean`.
+The import file is created by referencing the import file of miniF2F.

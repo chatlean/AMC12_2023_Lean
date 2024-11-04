@@ -18,3 +18,4 @@ The Lean version is 3.42.1, which is the same as the version in [miniF2F](https:
 All formalizations are recorded in a single file, `src/test.lean`, with an import file assigned as `src/amc_import.lean`.
 
 The import file is created by referencing the import file of miniF2F.
+

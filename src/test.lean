@@ -25,7 +25,7 @@ begin
   sorry,
 end
 
-theorem amc12_2023_p3 :
+theorem amc12a_2023_p3 :
   ∃ (S : finset ℕ), 
     (∀ (n : ℕ), n ∈ S ↔ (∃ k : ℕ, n = k^2 ∧ k^2 < 2023 ∧ 5 ∣ k^2)) ∧ 
     finset.card S = 8 :=
@@ -216,7 +216,7 @@ begin
   sorry,
 end
 
-theorem amc12b_2023_22 :
+theorem amc12b_2023_p22 :
   ∀ f : ℝ → ℝ,
   (∀ a b : ℝ, f (a + b) + f (a - b) = 2 * f (a) * f (b)) →
   f (1) ≠ -2 :=
